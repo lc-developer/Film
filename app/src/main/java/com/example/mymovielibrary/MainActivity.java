@@ -114,6 +114,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
+
     void openDeleteAllConfirmationDialog() {
 
         AlertDialog.Builder alert = new AlertDialog.Builder(this);
